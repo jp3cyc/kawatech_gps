@@ -1,0 +1,2 @@
+# kawatech_gps
+カワテク東三河のIoT樽のGPSデータをサーバにGETで送るためのプログラム
