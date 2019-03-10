@@ -11,7 +11,10 @@ https://uzura.doorkeeper.jp/events/87598
 ## 初期設定
 gitからCloneする
 ```
-git clone https://github.com/jp3cyc/YoutubeLive_by_ffmpeg.git cd YoutubeLive_by_ffmpeg
+git clone https://github.com/jp3cyc/kawatech_gps.git
+```
+```
+cd YoutubeLive_by_ffmpeg
 ```
 
 
