@@ -13,9 +13,6 @@ gitからCloneする
 ```
 git clone https://github.com/jp3cyc/kawatech_gps.git
 ```
-```
-cd YoutubeLive_by_ffmpeg
-```
 
 
 ## 実行
